@@ -6,7 +6,6 @@ A squad of robotic rovers are to be landed by NASA on a plateau on Mars. This pl
 curiously rectangular, must be navigated by the rovers so that their on board cameras can get a
 complete view of the surrounding terrain to send back to Earth.
 
-
 A rover's position and location is represented by a combination of x and y co-ordinates and a letter
 representing one of the four cardinal compass points.
 The plateau is divided up into a grid to
