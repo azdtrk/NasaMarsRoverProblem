@@ -30,7 +30,7 @@ The output for each rover should be its final co-ordinates and heading.
 
 ---
 
-## Sample Input and Output
+# Sample Input and Output
 **Test Input:**
 5 5
 1 2 N
